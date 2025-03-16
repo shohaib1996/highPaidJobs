@@ -200,7 +200,7 @@ const PrivacyPolicy = () => {
 
                   <p className="text-sm text-muted-foreground">
                     To exercise these rights, please contact us at{" "}
-                    <span className="font-medium text-primary">highpaidjobs.us@gmail.com</span>. We will respond to your
+                    <span className="font-medium text-primary dark:text-white">highpaidjobs.us@gmail.com</span>. We will respond to your
                     request within the timeframe required by applicable law.
                   </p>
                 </div>
@@ -217,7 +217,7 @@ const PrivacyPolicy = () => {
                     Our services are not intended for individuals under the age of 13. We do not knowingly collect
                     personal information from children under 13. If you are a parent or guardian and believe that your
                     child has provided us with personal information, please contact us immediately at{" "}
-                    <span className="font-medium text-primary">highpaidjobs.us@gmail.com</span>.
+                    <span className="font-medium text-primary dark:text-white">highpaidjobs.us@gmail.com</span>.
                   </p>
                 </div>
               </AccordionContent>
@@ -277,7 +277,7 @@ const PrivacyPolicy = () => {
 
                   <div className="flex items-center space-x-2 text-sm">
                     <Mail className="h-4 w-4 text-primary" />
-                    <span className="font-medium text-primary">highpaidjobs.us@gmail.com</span>
+                    <span className="font-medium text-primary dark:text-white">highpaidjobs.us@gmail.com</span>
                   </div>
 
                   <p className="text-sm text-muted-foreground">
