@@ -276,7 +276,7 @@ const PrivacyPolicy = () => {
                   </p>
 
                   <div className="flex items-center space-x-2 text-sm">
-                    <Mail className="h-4 w-4 text-primary" />
+                    <Mail className="h-4 w-4 text-primary dark:text-white" />
                     <span className="font-medium text-primary dark:text-white">highpaidjobs.us@gmail.com</span>
                   </div>
 
