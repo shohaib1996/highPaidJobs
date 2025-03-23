@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     siteName: "High Paid Jobs",
     images: [
       {
-        url: "../../public/high-paid-jobs.png",
+        url: "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/userdocument/1742757582431-high-paid-jobs.png",
         width: 1200,
         height: 630,
         alt: "High Paid Jobs",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     title: "High Paid Jobs",
     description:
       "High Paid Jobs offers high ticket careers within 90-120 days!",
-    images: ["../../public/high-paid-jobs.png"],
+    images: ["https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/userdocument/1742757582431-high-paid-jobs.png"],
   },
 };
 
