@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: "High Paid Jobs",
     description:
       "High Paid Jobs offers high ticket careers within 90-120 days!",
-    url: "https://www.highpaidjobs.us/",
+    url: "https://high-paid-jobs.vercel.app/",
     siteName: "High Paid Jobs",
     images: [
       {
@@ -47,7 +47,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-      <meta property="og:image" content="https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/userdocument/1742757582431-high-paid-jobs.png" />
+        {/* No manual meta tags here - Next.js will handle them based on the metadata object */}
       </head>
       <body className={`${inter.variable} antialiased`}>
         <ThemeProvider
