@@ -46,6 +46,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+      <meta property="og:image" content="https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/userdocument/1742757582431-high-paid-jobs.png" />
+      </head>
       <body className={`${inter.variable} antialiased`}>
         <ThemeProvider
           attribute="class"
